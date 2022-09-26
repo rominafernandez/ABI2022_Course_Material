@@ -28,4 +28,4 @@
 | `git mv [existing-path][new-path]`            | Changes existing file path and stages the mobe. Can also be used for renaming |
 | **SHARE & UPDATE**                            |       |
 | `git push`                                    | Pushes local repository to remote repository |
-| `git remote set-url origin [url]              | E.g. after renaming a repository to set the local repository to the new URL. | 
+| `git remote set-url origin [url]`              | E.g. after renaming a repository to set the local repository to the new URL. | 
