@@ -25,8 +25,8 @@
 | `git switch -c`                               | Creates new branch (alternate timeline to earlier commit) |
 |**TRACKING PATH CHANGES**                      |       |
 | `git rm [file]`                               | Deletes file from project and stage the removal for commit |
-| `git mv [existing-path][new-path]`            | Changes existing file path and stages the mobe. Can also be used for renaming |
+| `git mv [existing-path][new-path]`            | Changes existing file path and stages the move. Can also be used for renaming |
 | **SHARE & UPDATE**                            |       |
 | `git push`                                    | Pushes local repository to remote repository |
 | `git remote set-url origin [url]`             | E.g. after renaming a repository to set the local repository to the new URL. |
-| `git push-u origin master`                    | Pishes the commits in the local branch named master to the remote named origin| 
+| `git push-u origin master`                    | Pushes the commits in the local branch named master to the remote named origin|
